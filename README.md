@@ -30,6 +30,7 @@
   ![Data model](https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/bottom%205.png)]
 ![Data model](https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/online%20%20offline.png)]
 ![Data model](https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/region%20by%20sales.png)]
+!{Data model](https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/sales%20and%20profits.png)]
 
 
   
