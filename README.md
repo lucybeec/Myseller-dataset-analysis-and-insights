@@ -23,6 +23,10 @@
 - data normalization
 - data vleaning
 - data visualization
+
+  ## Data model
+  - data was first normalized in excel before being transformed in tableau
+  [https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/images/2025-02-09.png]
   
   ## recommendation
 - recommendation 1
