@@ -27,6 +27,8 @@
   ## Data model
   - data was first normalized in excel before being transformed in tableau
   ![Data model](https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/category%20sales.png)]
+  ![Data model](https://github.com/lucybeec/Myseller-dataset-analysis-and-insights/blob/main/bottom%205.png)]
+
   
   ## recommendation
 - recommendation 1
